@@ -1,5 +1,5 @@
 Network Security Terms
-======================
+----------------------
 * Vulnerability
 	- weakness or flaw in the network
 	- can be exploited by an attacker
@@ -14,16 +14,16 @@ Network Security Terms
 	- action of reducing the severity of the vulnerability
 
 Vectors of Network Attacks
-==========================
+--------------------------
 An attack vector is a path or other means by which an attacker can gain access to a server, host or network.
 
 Cloud and Virtual Networks
-==========================
+--------------------------
 Cloud computing separates the application from the hardware.
 Virtualization separates the OS from the hardware.
 
 Components of Cryptography
-==========================
+--------------------------
 * Confidentiality
 	- encryption
 * Availability
