@@ -20,6 +20,7 @@ An attack vector is a path or other means by which an attacker can gain access t
 Cloud and Virtual Networks
 --------------------------
 Cloud computing separates the application from the hardware.
+
 Virtualization separates the OS from the hardware.
 
 Components of Cryptography
